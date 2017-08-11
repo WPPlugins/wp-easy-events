@@ -1,0 +1,1678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-05-03T13:42:29-04:00\n"
+"POT-Creation-Date: 2017-05-03T13:42:29-04:00\n"
+
+#: ./wp-easy-events/assets/ext/edd/EDD_SL_Plugin_Updater.php:196
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/edd/EDD_SL_Plugin_Updater.php:204
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/edd/EDD_SL_Plugin_Updater.php:358
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/edd/EDD_SL_Plugin_Updater.php:358
+msgid "Error"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:115
+msgid "This field is required."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:116
+msgid "Please fix this field."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:117
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/emd-meta-box/inc/meta-box.php:283
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/box.php:55
+msgid "Are you sure you want to delete all connections?"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/box.php:137
+msgid "Search"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/box.php:216
+msgid "previous"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/box.php:217
+msgid "next"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/box.php:218
+msgid "of"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/factory.php:46
+msgid " (from)"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/factory.php:47
+msgid " (to)"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/fields.php:7
+msgid "Delete all connections"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/admin/fields.php:16
+msgid "Delete connection"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:19
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:20
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:37
+msgid "Title:"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:44
+msgid "Connection type:"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:49
+msgid "Connection listing:"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:55
+msgid "connected"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/extra.php:56
+msgid "related"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/side.php:247
+msgid "Users"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/side.php:257
+msgid "Search Users"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/side.php:258
+msgid "No users found."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/type.php:101
+msgid "Create connections"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/core/type.php:121
+msgid "Connected %s"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/scb/AdminPage.php:170
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/scb/AdminPage.php:183
+#: ./wp-easy-events/assets/ext/posts-to-posts/scb/AdminPage.php:194
+msgid "Save Changes"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/posts-to-posts/scb/AdminPage.php:343
+msgid "Settings"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/zebraform/languages/english.php:11
+msgid "Clear"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/zebraform/languages/english.php:12
+msgid "There was a problem with your submission!<br>Possible causes may be that the submission has taken too long, or it represents a duplicate request.<br>Please try again."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/zebraform/languages/english.php:17
+msgid "Get a new code"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/zebraform/languages/english.php:18
+msgid "Other..."
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/zebraform/languages/english.php:19
+msgid "- select -"
+msgstr ""
+
+#: ./wp-easy-events/assets/ext/zebraform/languages/english.php:20
+msgid "Possible spam attempt detected. The posted form data was rejected."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:54
+msgid "Active"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:61
+msgid "Frontend Add"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:69
+msgid "Backend Add"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:77
+msgid "Change"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:85
+msgid "Delete"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:93
+msgid "Add"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:101
+msgid "Trash"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:109
+msgid "Change Value"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:110
+msgid "If change value is empty, this notification is triggered in every value change."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:116
+msgid "User Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:123
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:202
+msgid "Send To"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:131
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:210
+msgid "From Name"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:139
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:218
+msgid "From Email"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:147
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:226
+msgid "Reply To"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:155
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:234
+msgid "Cc"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:163
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:242
+msgid "BCc"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:171
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:250
+msgid "Subject"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:179
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:258
+msgid "Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:195
+msgid "Admin Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:529
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:530
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:531
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:532
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:533
+msgid "Not available"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:535
+msgid "Use template tags below to customize your email. Taxonomy and relationship tags produce link(s) to the related record(s). For no link tag, add %s to relationship or taxonomy tag. For example, for {mytag%s} tag produces a no link version of the tag. Check glossary tab for definitions."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:539
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:546
+msgid "Builtin"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Title"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Permalink"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Edit Link"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Delete Link"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Excerpt"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Content"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author Display Name"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author NickName"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author First Name"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author Last Name"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author Username"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author Bio"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author Googleplus"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:540
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:545
+msgid "Author Twitter"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:550
+msgid "Globals"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:553
+msgid "Attributes"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:556
+msgid "Taxonomies"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:559
+msgid "Relationships"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:562
+msgid "Comments"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/class-emd-notifications.php:618
+msgid "Below is your notification list"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:28
+msgid "Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:79
+msgid "Deactivate License"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:83
+msgid "Activate License"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:94
+msgid "Error:"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:208
+#: ./wp-easy-events/includes/admin/license-functions.php:242
+#: ./wp-easy-events/includes/admin/license-functions.php:283
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:220
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:225
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:228
+msgid "Invalid license."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:232
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:235
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:239
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:349
+msgid "Thanks for installing %s. Please <a href=\"%s\">activate your license key</a> before start using."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:352
+msgid "Please notify the site administrator to activate %s license."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:357
+msgid "You have invalid or expired license for %s. Please <a href=\"%s\">go to licenses page</a> to correct this issue."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/license-functions.php:360
+msgid "Please notify the site administrator to activate expired or invalid %s license."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:20
+msgid "Forms"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:122
+msgid "Use the section below to show or hide corresponding form elements. Size column refers to the form elements length relative to the other elements in the same row. Total element size in each row can not exceed 12 units. When you hide or show an element you may adjust sizes of the other elements in the same row. The form elements which are in the same row are color coded."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:126
+msgid "Error Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:126
+msgid "Success Mesage"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:126
+msgid "No Access Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:126
+msgid "No Result Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:198
+msgid "Show %s"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:232
+msgid "Show Captcha"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:234
+msgid "Never Show"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:235
+msgid "Always Show"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:236
+msgid "Visitors Only"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:253
+msgid "CSRF Check"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:258
+msgid "Enables Cross-site request forgery protection when selected."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:266
+msgid "Show Register / Login Form"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:268
+msgid "None"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:269
+msgid "Registration and Login Forms"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:270
+msgid "Login Form only"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:279
+msgid "Displays or hides registration and login forms on this form for non-logged-in users."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-forms.php:298
+msgid "The unique form elements are disabled however you can change their sizes."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:19
+msgid "Global"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:55
+msgid "%s is required."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:136
+msgid "Frontend Map Settings"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:137
+msgid "Width"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:137
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:138
+msgid "Height"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:138
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:139
+msgid "Zoom"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:148
+msgid "Type"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:158
+msgid "Marker"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:159
+msgid "Marker Title"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:159
+msgid "Sets the marker title when hover."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:160
+msgid "Info Window"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:160
+msgid "Sets the content of the info box. You can use html tags."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:161
+msgid "Display Info Window on Page Load"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-globs.php:162
+msgid "You can drag and drop the marker to specify the exact location."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:17
+msgid "Misc"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:63
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:70
+msgid "Google requires api key to access google map service. By default we provide a complimentary key. Get your own google maps api key to avoid service interruptions"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:74
+msgid "Disable Bootstrap CSS"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:84
+msgid "Disables loading of Bootstrap stylesheet in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based stylesheet."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:86
+msgid "Disable Bootstrap JS"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:96
+msgid "Disables loading of Bootstrap JavaScript in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based JavaScript."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:100
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:105
+msgid "Only Message"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:107
+msgid "Only Login Form"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions-misc.php:116
+msgid "Display the registration and login forms on the pages non-logged-in users don't have access to."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:28
+msgid "Entities"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:47
+msgid "Tools"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:50
+msgid "Settings Saved."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:130
+#: ./wp-easy-events/includes/admin/settings-functions.php:595
+msgid "Base slug"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:133
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:135
+msgid "Single template"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:139
+#: ./wp-easy-events/includes/admin/settings-functions.php:604
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:139
+#: ./wp-easy-events/includes/admin/settings-functions.php:604
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:139
+#: ./wp-easy-events/includes/admin/settings-functions.php:604
+msgid "Full Width"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:147
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:149
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:156
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:160
+msgid "Archive template"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:171
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:173
+#: ./wp-easy-events/includes/admin/settings-functions.php:614
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:180
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:186
+#: ./wp-easy-events/includes/admin/settings-functions.php:192
+#: ./wp-easy-events/includes/admin/settings-functions.php:227
+#: ./wp-easy-events/includes/admin/settings-functions.php:233
+#: ./wp-easy-events/includes/admin/settings-functions.php:239
+#: ./wp-easy-events/includes/admin/settings-functions.php:311
+#: ./wp-easy-events/includes/admin/settings-functions.php:335
+#: ./wp-easy-events/includes/admin/settings-functions.php:580
+msgid "Enable"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:187
+#: ./wp-easy-events/includes/admin/settings-functions.php:193
+#: ./wp-easy-events/includes/admin/settings-functions.php:228
+#: ./wp-easy-events/includes/admin/settings-functions.php:234
+#: ./wp-easy-events/includes/admin/settings-functions.php:312
+#: ./wp-easy-events/includes/admin/settings-functions.php:336
+#: ./wp-easy-events/includes/admin/settings-functions.php:581
+msgid "Disable"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:188
+#: ./wp-easy-events/includes/admin/settings-functions.php:235
+#: ./wp-easy-events/includes/admin/settings-functions.php:240
+#: ./wp-easy-events/includes/admin/settings-functions.php:313
+#: ./wp-easy-events/includes/admin/settings-functions.php:337
+#: ./wp-easy-events/includes/admin/settings-functions.php:582
+msgid "Hide on FrontEnd Pages"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:211
+msgid "Featured Image"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:258
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Hide on FrontEnd Pages: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:272
+msgid "Hide custom fields"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:281
+msgid "Check the custom fields you would like to hide on the frontend."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:306
+msgid "Enable: Display this relationship on everywhere</br>Disable: Remove this relationship from everywhere</br>Hide on FrontEnd Pages: This relationship is still enabled on admin area. If you want to hide this relationship on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:328
+msgid "Relationship attributes"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:330
+msgid "Enable: Display this relationship attribute on everywhere</br>Disable: Remove this relationship attribute from everywhere</br>Hide on FrontEnd Pages: This relationship attribute is still enabled on admin area."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:363
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:370
+msgid "Shows all %s to logged-in and non-logged-in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:402
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:425
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:577
+msgid "Availability"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:592
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Hide on FrontEnd Pages: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:597
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:600
+msgid "Template"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:612
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:621
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:682
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:693
+#: ./wp-easy-events/includes/admin/settings-functions.php:695
+msgid "Install pages"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:696
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:698
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:705
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:707
+msgid "Delete all settings"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:714
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:716
+msgid "Delete all data"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:729
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:731
+msgid "Custom CSS"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/settings-functions.php:735
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/singletax/class-emd-single-taxonomy.php:144
+msgid "Most Used"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/singletax/class-emd-single-taxonomy.php:208
+msgid "+ %s"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:24
+#: ./wp-easy-events/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:23
+msgid "Please Select"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:42
+msgid "Standards"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:59
+msgid "AutoCompletes"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:67
+msgid "Integrations"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:78
+msgid "Charts"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:94
+msgid "Datagrids"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:102
+msgid "Calendars"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:179
+msgid "Insert WPAS Shortcode"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:180
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:185
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:207
+#: ./wp-easy-events/includes/admin/wpas-btn-functions.php:208
+msgid "Add WPAS Shortcode"
+msgstr ""
+
+#: ./wp-easy-events/includes/class-emd-widget.php:137
+msgid "%s to show"
+msgstr ""
+
+#: ./wp-easy-events/includes/class-emd-widget.php:138
+msgid "Max: 10"
+msgstr ""
+
+#: ./wp-easy-events/includes/class-emd-widget.php:209
+#: ./wp-easy-events/includes/class-emd-widget.php:222
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ./wp-easy-events/includes/common-functions.php:348
+msgid "Author:"
+msgstr ""
+
+#: ./wp-easy-events/includes/common-functions.php:349
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/calendar-admin-functions.php:151
+msgid "Click to go to %s page"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:54
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:82
+msgid "Define calendar options by clicking on each entity name."
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:125
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:161
+msgid "Views"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:129
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:146
+msgid "Month"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:131
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:147
+msgid "Basic Week"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:132
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:148
+msgid "Basic Day"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:133
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:149
+msgid "Agenda Week"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:134
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:150
+msgid "Agenda Day"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:135
+msgid "Views are ways of displaying days and events."
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:141
+msgid "Default View"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:156
+msgid "Previous"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:158
+msgid "Previous Year"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:159
+msgid "Next Year"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:167
+msgid "jQuery UI Theme"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:174
+msgid "Smoothness"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:175
+msgid "UI lightness"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:176
+msgid "UI darkness"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:177
+msgid "Start"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:178
+msgid "Redmond"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:179
+msgid "Sunny"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:180
+msgid "Overcast"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:181
+msgid "Le Frog"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:182
+msgid "Flick"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:183
+msgid "Pepper Grinder"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:184
+msgid "Eggplant"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:185
+msgid "Dark Hive"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:186
+msgid "Cupertino"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:187
+msgid "South Street"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:188
+msgid "Blitzer"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:189
+msgid "Humanity"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:190
+msgid "Hot Sneaks"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:191
+msgid "Excite Bike"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:192
+msgid "Vader"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:193
+msgid "Dot Luv"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:194
+msgid "Mint Choc"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:195
+msgid "Black Tie"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:196
+msgid "Trontastic"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:197
+msgid "Swanky Purse"
+msgstr ""
+
+#: ./wp-easy-events/includes/emd-calendar/class-emd-calendar.php:208
+msgid "Enables/disables use of jQuery UI theming."
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:152
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:153
+msgid "Custom field updated."
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:154
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:155
+msgid "%s updated."
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:157
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:158
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:159
+msgid "%s saved."
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:160
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:161
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:161
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:162
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./wp-easy-events/includes/entities/class-emd-entity.php:181
+msgid "Operations"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-ajax-functions.php:132
+#: ./wp-easy-events/includes/form-ajax-functions.php:195
+#: ./wp-easy-events/includes/form-ajax-functions.php:238
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: ./wp-easy-events/includes/form-ajax-functions.php:144
+msgid "Add New"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-ajax-functions.php:212
+msgid "Show Form"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-ajax-functions.php:214
+msgid "Hide Form"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:826
+#: ./wp-easy-events/includes/form-functions.php:836
+msgid "Invalid username"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:831
+msgid "Username already taken"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:841
+msgid "Email address already taken"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:846
+msgid "Invalid Email"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:850
+msgid "Please enter a password"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:854
+msgid "Passwords do not match"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:915
+msgid "The password you entered is incorrect"
+msgstr ""
+
+#: ./wp-easy-events/includes/form-functions.php:919
+msgid "The username you entered does not exist"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-archive.php:46
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-archive.php:48
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:6
+msgid "Username or Email"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:10
+msgid "Password"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:21
+msgid "Log In"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:26
+msgid "Lost Password?"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-login.php:31
+msgid "Register"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-register.php:6
+msgid "Username"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-register.php:10
+msgid "Email"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-register.php:14
+msgid "First Name"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-register.php:18
+msgid "Last Name"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-register.php:26
+msgid "Confirm Password"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-register.php:39
+msgid "Login"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-single.php:43
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./wp-easy-events/layouts/emd-single.php:44
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""

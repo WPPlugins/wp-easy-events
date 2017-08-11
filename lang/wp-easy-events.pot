@@ -1,0 +1,3042 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-05-03T13:42:34-04:00\n"
+"POT-Creation-Date: 2017-05-03T13:42:34-04:00\n"
+
+#: wp-easy-events/forms/event-attendee.php:36
+msgid "Events"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:39
+msgid "Events field is required"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:58
+msgid "First Name"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:61
+msgid "First Name field is required"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:80
+msgid "Last Name"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:83
+msgid "Last Name field is required"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:102
+msgid "Quantity"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:105
+msgid "Quantity field is required"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:124
+msgid "Email"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:127
+msgid "Email field is required"
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:167
+msgid "Please enter the characters with black color in the image above."
+msgstr ""
+
+#: wp-easy-events/forms/event-attendee.php:170
+msgid "Security Code field is required"
+msgstr ""
+
+#: wp-easy-events/includes/admin/getting-started.php:168
+msgid "Welcome to WP Easy Events Community %s"
+msgstr ""
+
+#: wp-easy-events/includes/admin/getting-started.php:172
+msgid "Easy-to-use yet beautiful and powerful  event management system for successful events"
+msgstr ""
+
+#: wp-easy-events/includes/admin/getting-started.php:176
+msgid "Getting Started"
+msgstr ""
+
+#: wp-easy-events/includes/admin/getting-started.php:177
+msgid "What's New"
+msgstr ""
+
+#: wp-easy-events/includes/admin/getting-started.php:178
+msgid "Resources"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:21
+msgid "WP Easy Events is an easy to use event management, rsvp and ticketing plugin."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in WP Easy Events."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:26
+#: wp-easy-events/includes/admin/glossary.php:119
+msgid "Attendees"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:29
+msgid "A person or organization attending the event."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:30
+msgid "Ticket ID"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:31
+msgid "Unique identifier for every ticket Being a unique identifier, it uniquely distinguishes each instance of Attendee entity. Ticket ID is filterable in the admin area. Ticket ID does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:34
+msgid " First Name is filterable in the admin area. First Name does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:37
+msgid " Last Name is filterable in the admin area. Last Name does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:40
+#: wp-easy-events/includes/admin/glossary.php:130
+msgid " Email is filterable in the admin area. Email does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:42
+msgid "Full name"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:43
+msgid " Full name does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:46
+msgid " Quantity is a required field. Quantity is filterable in the admin area. Quantity has a default value of <b>1</b>."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:48
+msgid "Check-in"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:49
+msgid " Check-in is filterable in the admin area. Check-in does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:51
+msgid "Form Name"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:52
+msgid " Form Name is filterable in the admin area. Form Name has a default value of <b>admin</b>."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:54
+msgid "Form Submitted By"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:55
+msgid " Form Submitted By is filterable in the admin area. Form Submitted By does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:57
+msgid "Form Submitted IP"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:58
+msgid " Form Submitted IP is filterable in the admin area. Form Submitted IP does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:61
+#: wp-easy-events/includes/admin/glossary.php:145
+#: wp-easy-events/includes/admin/glossary.php:185
+msgid "Allows to display and create connections with Events"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:61
+msgid "One instance of Attendees can associated with <b>only one</b> instance of Events"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:61
+msgid "The relationship can be set up in the edit area of Attendees using Events relationship box. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:69
+msgid "Any planned public or social occasion."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:70
+msgid "Featured"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:71
+msgid " Featured is filterable in the admin area. Featured does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:73
+msgid "Registration Type"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:74
+msgid "<a href=\"https://emdplugins.com/plugins/wp-easy-event-woocommerce-extension/?pk_campaign=wpee-pro&amp;pk_kwd=regtypelink\" title=\"Buy WP Easy Event WooCommerce Extension Now\">WooCommerce</a> and <a href=\"https://emdplugins.com/plugins/wp-easy-event-easy-digital-downloads-extension/?pk_campaign=wpee-pro&amp;pk_kwd=regtypelink\" title=\"Buy WP Easy Event Easy Digital Downloads Extension Now\">Easy Digital Downloads</a> types require corresponding extensions to work. Registration Type is filterable in the admin area. Registration Type has a default value of <b>'none'</b>."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:76
+msgid "Start Date"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:77
+msgid " Start Date does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:79
+msgid "End Date"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:80
+msgid " End Date does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:82
+#: wp-easy-events/includes/admin/glossary.php:135
+msgid "Website"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:83
+msgid " Website does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:85
+msgid "Display timezone on event page"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:86
+msgid " Display timezone on event page does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:88
+msgid "Timezone"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:89
+msgid " Timezone is filterable in the admin area. Timezone has a default value of <b>'UTC0'</b>."
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:91
+msgid "Cost"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:92
+msgid " Cost does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:94
+#: wp-easy-events/includes/admin/glossary.php:138
+#: wp-easy-events/includes/admin/glossary.php:175
+msgid "Title"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:95
+msgid " Title is a required field. Being a unique identifier, it uniquely distinguishes each instance of Event entity. Title does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:97
+msgid "Description"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:98
+msgid " Description does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:100
+#: wp-easy-events/includes/admin/glossary.php:181
+msgid "Excerpt"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:101
+#: wp-easy-events/includes/admin/glossary.php:182
+msgid " Excerpt does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:103
+msgid "Category"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:105
+msgid " Category accepts multiple values like tags"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:105
+msgid "Category does not have a default value"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:105
+msgid "There are no preset values for <b>Category:</b>"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:108
+msgid "Tag"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:110
+msgid " Tag accepts multiple values like tags"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:110
+msgid "Tag does not have a default value"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:110
+msgid "There are no preset values for <b>Tag:</b>"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:113
+#: wp-easy-events/includes/admin/glossary.php:150
+msgid "Venues"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:114
+msgid "Allows to display and create connections with Venues"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:114
+msgid "One instance of Events can associated with <b>only one</b> instance of Venues"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:114
+#: wp-easy-events/includes/admin/glossary.php:185
+msgid "The relationship can be set up in the edit area of Venues using Events or in the edit area of Events using Venues relationship boxes"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:114
+msgid "This relationship is required when publishing new Events"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:116
+#: wp-easy-events/includes/admin/glossary.php:125
+msgid "Organizers"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:117
+msgid "Allows to display and create connections with Organizers"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:117
+msgid "One instance of Events can associated with many instances of Organizers, and vice versa"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:117
+#: wp-easy-events/includes/admin/glossary.php:145
+msgid "The relationship can be set up in the edit area of Events using Organizers or in the edit area of Organizers using Events relationship boxes"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:120
+msgid "Allows to display and create connections with Attendees"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:120
+msgid "One instance of Events can associated with many instances of Attendees"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:120
+msgid "The relationship can be set up in the edit area of Attendees using Events relationship box"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:128
+msgid "Person or company that organizes events"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:132
+msgid "Phone"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:133
+msgid " Phone is filterable in the admin area. Phone does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:136
+msgid " Website is filterable in the admin area. Website does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:139
+msgid " Title is a required field. Being a unique identifier, it uniquely distinguishes each instance of Organizer entity. Title does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:141
+msgid "Detail"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:142
+msgid " Detail does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:145
+msgid "One instance of Organizers can associated with many instances of Events, and vice versa"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:153
+msgid ""
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:154
+msgid "Address"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:155
+msgid " Address is a required field. Address does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:157
+msgid "City"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:158
+msgid " City is a required field. City is filterable in the admin area. City does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:160
+msgid "State"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:161
+msgid " State is filterable in the admin area. State does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:163
+msgid "Postal Code"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:164
+msgid " Postal Code is filterable in the admin area. Postal Code does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:166
+msgid "Country"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:167
+msgid " Country is filterable in the admin area. Country does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:169
+msgid "Full Address"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:170
+msgid " Full Address does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:172
+msgid "Map"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:173
+msgid " Map does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:176
+msgid " Title is a required field. Being a unique identifier, it uniquely distinguishes each instance of Venue entity. Title does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:178
+msgid "Details"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:179
+msgid " Details does not have a default value. "
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:185
+msgid "One instance of Venues can associated with many instances of Events"
+msgstr ""
+
+#: wp-easy-events/includes/admin/glossary.php:185
+msgid "This relationship is required when publishing new Venues"
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:28
+msgid "Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:79
+msgid "Deactivate License"
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:83
+msgid "Activate License"
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:94
+msgid "Error:"
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:208
+#: wp-easy-events/includes/admin/license-functions.php:242
+#: wp-easy-events/includes/admin/license-functions.php:283
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:220
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:225
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:228
+msgid "Invalid license."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:232
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:235
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:239
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:349
+msgid "Thanks for installing %s. Please <a href=\"%s\">activate your license key</a> before start using."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:352
+msgid "Please notify the site administrator to activate %s license."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:357
+msgid "You have invalid or expired license for %s. Please <a href=\"%s\">go to licenses page</a> to correct this issue."
+msgstr ""
+
+#: wp-easy-events/includes/admin/license-functions.php:360
+msgid "Please notify the site administrator to activate expired or invalid %s license."
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:24
+#: wp-easy-events/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: wp-easy-events/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:157
+msgid "Event Staff"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:333
+msgid "Attendee Tickets"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:389
+msgid "Attendees Email"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:497
+msgid "Event Grid"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:503
+msgid "Events Calendar"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:529
+msgid "<a href=\"https://emdplugins.com/plugins/wp-easy-event-woocommerce-extension/?pk_campaign=wpee-pro&amp;pk_kwd=regtypelink\" title=\"Buy WP Easy Event WooCommerce Extension Now\">WooCommerce</a> and <a href=\"https://emdplugins.com/plugins/wp-easy-event-easy-digital-downloads-extension/?pk_campaign=wpee-pro&amp;pk_kwd=regtypelink\" title=\"Buy WP Easy Event Easy Digital Downloads Extension Now\">Easy Digital Downloads</a> types require corresponding extensions to work."
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:532
+msgid "No registration"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:533
+msgid "RSVP required"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:534
+msgid "WooCommerce"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:535
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:618
+#: wp-easy-events/includes/class-install-deactivate.php:751
+#: wp-easy-events/includes/class-install-deactivate.php:836
+msgid "Please Select"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:619
+msgid "UTC-12"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:620
+msgid "UTC-11:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:621
+msgid "UTC-11"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:622
+msgid "UTC-10:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:623
+msgid "UTC-10"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:624
+msgid "UTC-9:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:625
+msgid "UTC-9"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:626
+msgid "UTC-8:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:627
+msgid "UTC-8"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:628
+msgid "UTC-7:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:629
+msgid "UTC-7"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:630
+msgid "UTC-6:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:631
+msgid "UTC-6"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:632
+msgid "UTC-5:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:633
+msgid "UTC-5"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:634
+msgid "UTC-4:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:635
+msgid "UTC-4"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:636
+msgid "UTC-3:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:637
+msgid "UTC-3"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:638
+msgid "UTC-2:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:639
+msgid "UTC-2"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:640
+msgid "UTC-1:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:641
+msgid "UTC-1"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:642
+msgid "UTC-0:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:643
+msgid "UTC+0"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:644
+msgid "UTC+0:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:645
+msgid "UTC+1"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:646
+msgid "UTC+1:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:647
+msgid "UTC+2"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:648
+msgid "UTC+2:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:649
+msgid "UTC+3"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:650
+msgid "UTC+3:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:651
+msgid "UTC+4"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:652
+msgid "UTC+4:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:653
+msgid "UTC+5"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:654
+msgid "UTC+5:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:655
+msgid "UTC+5:45"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:656
+msgid "UTC+6"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:657
+msgid "UTC+6:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:658
+msgid "UTC+7"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:659
+msgid "UTC+7:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:660
+msgid "UTC+8"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:661
+msgid "UTC+8:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:662
+msgid "UTC+8:45"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:663
+msgid "UTC+9"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:664
+msgid "UTC+9:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:665
+msgid "UTC+10"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:666
+msgid "UTC+10:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:667
+msgid "UTC+11"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:668
+msgid "UTC+11:30"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:669
+msgid "UTC+12"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:670
+msgid "UTC+12:45"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:671
+msgid "UTC+13"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:672
+msgid "UTC+13:45"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:673
+msgid "UTC+14"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:752
+msgid "Alabama"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:753
+msgid "Alaska"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:754
+msgid "Arizona"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:755
+msgid "Arkansas"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:756
+msgid "California"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:757
+msgid "Colorado"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:758
+msgid "Connecticut"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:759
+msgid "Delaware"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:760
+msgid "District Of Columbia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:761
+msgid "Florida"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:762
+#: wp-easy-events/includes/class-install-deactivate.php:918
+msgid "Georgia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:763
+msgid "Hawaii"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:764
+msgid "Idaho"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:765
+msgid "Illinois"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:766
+msgid "Indiana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:767
+msgid "Iowa"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:768
+msgid "Kansas"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:769
+msgid "Kentucky"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:770
+msgid "Louisiana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:771
+msgid "Maine"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:772
+msgid "Maryland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:773
+msgid "Massachusetts"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:774
+msgid "Michigan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:775
+msgid "Minnesota"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:776
+msgid "Mississippi"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:777
+msgid "Missouri"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:778
+msgid "Montana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:779
+msgid "Nebraska"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:780
+msgid "Nevada"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:781
+msgid "New Hampshire"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:782
+msgid "New Jersey"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:783
+msgid "New Mexico"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:784
+msgid "New York"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:785
+msgid "North Carolina"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:786
+msgid "North Dakota"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:787
+msgid "Ohio"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:788
+msgid "Oklahoma"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:789
+msgid "Oregon"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:790
+msgid "Pennsylvania"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:791
+msgid "Rhode Island"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:792
+msgid "South Carolina"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:793
+msgid "South Dakota"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:794
+msgid "Tennessee"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:795
+msgid "Texas"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:796
+msgid "Utah"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:797
+msgid "Vermont"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:798
+msgid "Virginia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:799
+msgid "Washington"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:800
+msgid "West Virginia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:801
+msgid "Wisconsin"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:802
+msgid "Wyoming"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:803
+#: wp-easy-events/includes/class-install-deactivate.php:841
+msgid "American Samoa"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:804
+#: wp-easy-events/includes/class-install-deactivate.php:926
+msgid "Guam"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:805
+#: wp-easy-events/includes/class-install-deactivate.php:1001
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:806
+#: wp-easy-events/includes/class-install-deactivate.php:1015
+msgid "Puerto Rico"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:807
+#: wp-easy-events/includes/class-install-deactivate.php:1073
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:808
+msgid "Virgin Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:809
+msgid "Armed Forces Americas"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:810
+msgid "Armed Forces Pacific"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:811
+msgid "Armed Forces Others"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:837
+msgid "Afghanistan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:838
+msgid "Åland Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:839
+msgid "Albania"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:840
+msgid "Algeria"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:842
+msgid "Andorra"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:843
+msgid "Angola"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:844
+msgid "Anguilla"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:845
+msgid "Antarctica"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:846
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:847
+msgid "Argentina"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:848
+msgid "Armenia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:849
+msgid "Aruba"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:850
+msgid "Australia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:851
+msgid "Austria"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:852
+msgid "Azerbaijan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:853
+msgid "Bahamas"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:854
+msgid "Bahrain"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:855
+msgid "Bangladesh"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:856
+msgid "Barbados"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:857
+msgid "Belarus"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:858
+msgid "Belgium"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:859
+msgid "Belize"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:860
+msgid "Benin"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:861
+msgid "Bermuda"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:862
+msgid "Bhutan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:863
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:864
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:865
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:866
+msgid "Botswana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:867
+msgid "Bouvet Island"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:868
+msgid "Brazil"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:869
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:870
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:871
+msgid "Bulgaria"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:872
+msgid "Burkina Faso"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:873
+msgid "Burundi"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:874
+msgid "Cambodia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:875
+msgid "Cameroon"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:876
+msgid "Canada"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:877
+msgid "Cape Verde"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:878
+msgid "Cayman Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:879
+msgid "Central African Republic"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:880
+msgid "Chad"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:881
+msgid "Chile"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:882
+msgid "China"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:883
+msgid "Christmas Island"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:884
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:885
+msgid "Colombia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:886
+msgid "Comoros"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:887
+msgid "Congo"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:888
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:889
+msgid "Cook Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:890
+msgid "Costa Rica"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:891
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:892
+msgid "Croatia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:893
+msgid "Cuba"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:894
+msgid "Curaçao"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:895
+msgid "Cyprus"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:896
+msgid "Czech Republic"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:897
+msgid "Denmark"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:898
+msgid "Djibouti"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:899
+msgid "Dominica"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:900
+msgid "Dominican Republic"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:901
+msgid "Ecuador"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:902
+msgid "Egypt"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:903
+msgid "El Salvador"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:904
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:905
+msgid "Eritrea"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:906
+msgid "Estonia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:907
+msgid "Ethiopia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:908
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:909
+msgid "Faroe Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:910
+msgid "Fiji"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:911
+msgid "Finland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:912
+msgid "France"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:913
+msgid "French Guiana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:914
+msgid "French Polynesia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:915
+msgid "French Southern Territories"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:916
+msgid "Gabon"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:917
+msgid "Gambia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:919
+msgid "Germany"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:920
+msgid "Ghana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:921
+msgid "Gibraltar"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:922
+msgid "Greece"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:923
+msgid "Greenland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:924
+msgid "Grenada"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:925
+msgid "Guadeloupe"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:927
+msgid "Guatemala"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:928
+msgid "Guernsey"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:929
+msgid "Guinea"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:930
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:931
+msgid "Guyana"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:932
+msgid "Haiti"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:933
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:934
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:935
+msgid "Honduras"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:936
+msgid "Hong Kong"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:937
+msgid "Hungary"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:938
+msgid "Iceland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:939
+msgid "India"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:940
+msgid "Indonesia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:941
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:942
+msgid "Iraq"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:943
+msgid "Ireland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:944
+msgid "Isle of Man"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:945
+msgid "Israel"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:946
+msgid "Italy"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:947
+msgid "Jamaica"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:948
+msgid "Japan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:949
+msgid "Jersey"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:950
+msgid "Jordan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:951
+msgid "Kazakhstan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:952
+msgid "Kenya"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:953
+msgid "Kiribati"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:954
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:955
+msgid "Korea, Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:956
+msgid "Kuwait"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:957
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:958
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:959
+msgid "Latvia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:960
+msgid "Lebanon"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:961
+msgid "Lesotho"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:962
+msgid "Liberia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:963
+msgid "Libya"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:964
+msgid "Liechtenstein"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:965
+msgid "Lithuania"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:966
+msgid "Luxembourg"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:967
+msgid "Macao"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:968
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:969
+msgid "Madagascar"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:970
+msgid "Malawi"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:971
+msgid "Malaysia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:972
+msgid "Maldives"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:973
+msgid "Mali"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:974
+msgid "Malta"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:975
+msgid "Marshall Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:976
+msgid "Martinique"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:977
+msgid "Mauritania"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:978
+msgid "Mauritius"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:979
+msgid "Mayotte"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:980
+msgid "Mexico"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:981
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:982
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:983
+msgid "Monaco"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:984
+msgid "Mongolia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:985
+msgid "Montenegro"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:986
+msgid "Montserrat"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:987
+msgid "Morocco"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:988
+msgid "Mozambique"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:989
+msgid "Myanmar"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:990
+msgid "Namibia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:991
+msgid "Nauru"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:992
+msgid "Nepal"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:993
+msgid "Netherlands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:994
+msgid "New Caledonia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:995
+msgid "New Zealand"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:996
+msgid "Nicaragua"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:997
+msgid "Niger"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:998
+msgid "Nigeria"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:999
+msgid "Niue"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1000
+msgid "Norfolk Island"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1002
+msgid "Norway"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1003
+msgid "Oman"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1004
+msgid "Pakistan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1005
+msgid "Palau"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1006
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1007
+msgid "Panama"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1008
+msgid "Papua New Guinea"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1009
+msgid "Paraguay"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1010
+msgid "Peru"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1011
+msgid "Philippines"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1012
+msgid "Pitcairn"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1013
+msgid "Poland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1014
+msgid "Portugal"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1016
+msgid "Qatar"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1017
+msgid "Réunion"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1018
+msgid "Romania"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1019
+msgid "Russian Federation"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1020
+msgid "Rwanda"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1021
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1022
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1023
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1024
+msgid "Saint Lucia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1025
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1026
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1027
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1028
+msgid "Samoa"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1029
+msgid "San Marino"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1030
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1031
+msgid "Saudi Arabia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1032
+msgid "Senegal"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1033
+msgid "Serbia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1034
+msgid "Seychelles"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1035
+msgid "Sierra Leone"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1036
+msgid "Singapore"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1037
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1038
+msgid "Slovakia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1039
+msgid "Slovenia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1040
+msgid "Solomon Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1041
+msgid "Somalia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1042
+msgid "South Africa"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1043
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1044
+msgid "South Sudan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1045
+msgid "Spain"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1046
+msgid "Sri Lanka"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1047
+msgid "Sudan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1048
+msgid "Suriname"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1049
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1050
+msgid "Swaziland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1051
+msgid "Sweden"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1052
+msgid "Switzerland"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1053
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1054
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1055
+msgid "Tajikistan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1056
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1057
+msgid "Thailand"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1058
+msgid "Timor-Leste"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1059
+msgid "Togo"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1060
+msgid "Tokelau"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1061
+msgid "Tonga"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1062
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1063
+msgid "Tunisia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1064
+msgid "Turkey"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1065
+msgid "Turkmenistan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1066
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1067
+msgid "Tuvalu"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1068
+msgid "Uganda"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1069
+msgid "Ukraine"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1070
+msgid "United Arab Emirates"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1071
+msgid "United Kingdom"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1072
+msgid "United States"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1074
+msgid "Uruguay"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1075
+msgid "Uzbekistan"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1076
+msgid "Vanuatu"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1077
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1078
+msgid "Viet Nam"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1079
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1080
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1081
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1082
+msgid "Western Sahara"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1083
+msgid "Yemen"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1084
+msgid "Zambia"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1085
+msgid "Zimbabwe"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1142
+msgid "Unique identifier for every ticket"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1262
+msgid "Hide Event Map Icon"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1319
+msgid "Categories"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1331
+msgid "Tags"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1582
+msgid "New To WP Easy Events? Review the documentation!"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1582
+msgid "&#187;"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1582
+msgid "Dismiss"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1588
+msgid "Welcome to WP Easy Events"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1589
+msgid "Setup WP Easy Events Pages"
+msgstr ""
+
+#: wp-easy-events/includes/class-install-deactivate.php:1589
+msgid "Skip setup"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/calendar-admin-functions.php:151
+msgid "Click to go to %s page"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:54
+msgid "Your settings have been saved."
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:82
+msgid "Define calendar options by clicking on each entity name."
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:125
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:161
+msgid "Views"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:129
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:146
+msgid "Month"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:131
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:147
+msgid "Basic Week"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:132
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:148
+msgid "Basic Day"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:133
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:149
+msgid "Agenda Week"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:134
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:150
+msgid "Agenda Day"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:135
+msgid "Views are ways of displaying days and events."
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:141
+msgid "Default View"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:156
+msgid "Previous"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:157
+msgid "Next"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:158
+msgid "Previous Year"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:159
+msgid "Next Year"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:160
+msgid "Today"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:167
+msgid "jQuery UI Theme"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:172
+msgid "None"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:174
+msgid "Smoothness"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:175
+msgid "UI lightness"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:176
+msgid "UI darkness"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:177
+msgid "Start"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:178
+msgid "Redmond"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:179
+msgid "Sunny"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:180
+msgid "Overcast"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:181
+msgid "Le Frog"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:182
+msgid "Flick"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:183
+msgid "Pepper Grinder"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:184
+msgid "Eggplant"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:185
+msgid "Dark Hive"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:186
+msgid "Cupertino"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:187
+msgid "South Street"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:188
+msgid "Blitzer"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:189
+msgid "Humanity"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:190
+msgid "Hot Sneaks"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:191
+msgid "Excite Bike"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:192
+msgid "Vader"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:193
+msgid "Dot Luv"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:194
+msgid "Mint Choc"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:195
+msgid "Black Tie"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:196
+msgid "Trontastic"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:197
+msgid "Swanky Purse"
+msgstr ""
+
+#: wp-easy-events/includes/emd-calendar/class-emd-calendar.php:208
+msgid "Enables/disables use of jQuery UI theming."
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:77
+msgid "Featured Image"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:259
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:310
+msgid "Attendee"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:260
+msgid "Add New"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:261
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:399
+msgid "Add New Attendee"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:262
+msgid "Edit Attendee"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:263
+msgid "New Attendee"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:264
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:398
+msgid "All Attendees"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:265
+msgid "View Attendee"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:266
+msgid "Search Attendees"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:267
+msgid "No Attendees Found"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:268
+msgid "No Attendees Found In Trash"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:315
+msgid "Attendee Info"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-attendee.php:378
+msgid "Operations"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:255
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:317
+msgid "Organizer"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:257
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:406
+msgid "Add New Organizer"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:258
+msgid "Edit Organizer"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:259
+msgid "New Organizer"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:260
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:405
+msgid "All Organizers"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:261
+msgid "View Organizer"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:262
+msgid "Search Organizers"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:263
+msgid "No Organizers Found"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:264
+msgid "No Organizers Found In Trash"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-organizer.php:322
+msgid "Organizer Info"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:255
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:318
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:357
+msgid "Venue"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:257
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:441
+msgid "Add New Venue"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:258
+msgid "Edit Venue"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:259
+msgid "New Venue"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:260
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:440
+msgid "All Venues"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:261
+msgid "View Venue"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:262
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:358
+msgid "Search Venues"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:263
+msgid "No Venues Found"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:264
+msgid "No Venues Found In Trash"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:323
+msgid "Venue Info"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:359
+msgid "No Venues found."
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:362
+msgid "Event"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:363
+msgid "Search Events"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-event-venues.php:364
+msgid "No Events found."
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event-widgets.php:39
+msgid "Recent Events"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event-widgets.php:39
+#: wp-easy-events/includes/entities/class-emd-wpe-event-widgets.php:107
+msgid "The most recent events"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event-widgets.php:107
+msgid "Featured Events"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:253
+msgid "Add New Event"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:254
+msgid "Edit Event"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:255
+msgid "New Event"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:256
+msgid "All Events"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:257
+msgid "View Event"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:259
+msgid "No Events Found"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:260
+msgid "No Events Found In Trash"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:309
+msgid "Search Tags"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:310
+msgid "Popular Tags"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:311
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:358
+msgid "All"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:314
+msgid "Edit Tag"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:315
+msgid "Update Tag"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:316
+msgid "Add New Tag"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:317
+msgid "Add New Tag Name"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:318
+msgid "Seperate Tags with commas"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:319
+msgid "Add or Remove Tags"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:320
+msgid "Choose from the most used Tags"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:356
+msgid "Search Categories"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:357
+msgid "Popular Categories"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:361
+msgid "Edit Category"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:362
+msgid "Update Category"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:363
+msgid "Add New Category"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:364
+msgid "Add New Category Name"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:365
+msgid "Seperate Categories with commas"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:366
+msgid "Add or Remove Categories"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:367
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:416
+msgid "Event Info"
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:457
+msgid "No Attendees found."
+msgstr ""
+
+#: wp-easy-events/includes/entities/class-emd-wpe-event.php:484
+msgid "No Organizers found."
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:30
+msgid "Thanks for your registration."
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:30
+msgid "There has been an error when processing your registration. Please contact the site administrator."
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:108
+msgid "Please select"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:132
+msgid "Events is required!"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:162
+msgid "First Name is required"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:192
+msgid "Last Name is required"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:218
+msgid "Quantity: A positive or negative non-decimal number please"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:226
+msgid "Quantity: Please enter a value between 1 and no maximum value."
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:233
+msgid "Quantity is required"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:261
+msgid "Email: Please enter a valid email address"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:268
+msgid "Email is required"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:329
+msgid " is required"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:340
+msgid "Please enter the characters with black color."
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:342
+msgid "Code"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:347
+msgid "Captcha is required"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:351
+msgid "Characters from captcha image entered incorrectly!"
+msgstr ""
+
+#: wp-easy-events/includes/forms.php:355
+msgid "Submit"
+msgstr ""
+
+#: wp-easy-events/includes/integration-shortcodes.php:17
+msgid "You are not allowed to access to this area. Please contact the site administrator."
+msgstr ""
+
+#: wp-easy-events/includes/login-register-functions.php:72
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-easy-events/includes/plugin-app-functions.php:128
+msgid "Guest"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:54
+msgid "Please help us improve WP Easy Events"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:56
+msgid "Allow eMDPlugins to collect your usage of WP Easy Events. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:57
+msgid "If you skip this, that's okay! WP Easy Events will still work just fine."
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:60
+msgid "%sDo not allow%s"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:61
+msgid "%sAllow%s"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:66
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:67
+msgid "Your Profile Overview"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:67
+msgid "Name and email address"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:68
+msgid "Your Site Overview"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:68
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:69
+msgid "Newsletter"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:69
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:118
+msgid "Hi, I noticed you just crossed the %d %s milestone on WP Easy Events - that's awesome!"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:120
+msgid "Hi, I just noticed you have been using WP Easy Events for about a week now - that's awesome!"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:122
+msgid "Could you please do me a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> BIG favor <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:123
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:129
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:131
+msgid "I already did"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:132
+#: wp-easy-events/includes/plugin-feedback-functions.php:135
+msgid "Maybe later"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:133
+msgid "I want to upgrade"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:154
+msgid "Docs"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:155
+msgid "Pro Version"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:175
+msgid "Settings"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:192
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:193
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:194
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:195
+msgid "Cancel"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:196
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:199
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:200
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:201
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:202
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:203
+#: wp-easy-events/includes/plugin-feedback-functions.php:210
+msgid "I found a better plugin"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:205
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:206
+msgid "The plugin is not working"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:207
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:208
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:209
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:219
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:220
+msgid "Other"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:221
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:241
+msgid "Please share the plugin name"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:245
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:249
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and what happened"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:253
+msgid "We are sorry to hear that. Please share what happened"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:257
+msgid "Please share what didn't work so we can fix it in the future releases"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:261
+msgid "Please share what you were looking for"
+msgstr ""
+
+#: wp-easy-events/includes/plugin-feedback-functions.php:265
+msgid "Please share what you expected"
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:66
+#: wp-easy-events/includes/scripts.php:149
+msgid "Please enter a unique value."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:67
+msgid "required"
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:83
+msgid "Taxonomy"
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:133
+msgid "This field is required."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:134
+msgid "Please fix this field."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:135
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:136
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:137
+msgid "Please enter a valid date."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:138
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:139
+msgid "Please enter a valid number."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:140
+msgid "Please enter only digits."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:141
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:142
+msgid "Please enter the same value again."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:143
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:144
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:145
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:146
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:147
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: wp-easy-events/includes/scripts.php:148
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: wp-easy-events/layouts/emd-archive.php:46
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-archive.php:48
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:6
+msgid "Username or Email"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:10
+msgid "Password"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:21
+msgid "Log In"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:26
+msgid "Lost Password?"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-login.php:31
+msgid "Register"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-register.php:6
+msgid "Username"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-register.php:26
+msgid "Confirm Password"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-register.php:39
+msgid "Login"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-single.php:43
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: wp-easy-events/layouts/emd-single.php:44
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:7
+msgid "Last modified by"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:7
+msgid "ago"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:47
+#: wp-easy-events/layouts/single-emd-event-organizer.php:101
+msgid "Click for more info"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:110
+msgid "RSVP NOW"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:111
+msgid "RSVP"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:116
+#: wp-easy-events/layouts/single-emd-event-organizer.php:122
+msgid "Tickets"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-event-organizer.php:117
+#: wp-easy-events/layouts/single-emd-event-organizer.php:123
+msgid "Buy"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-wpe-event.php:12
+msgid "iCal Export"
+msgstr ""
+
+#: wp-easy-events/layouts/single-emd-wpe-event.php:13
+msgid "Google Calendar Export"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:277
+msgid "Event Settings"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:282
+msgid "Glossary"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:290
+msgid "Add-Ons"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:294
+msgid "Designs"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:298
+msgid "Support"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:302
+msgid "Notifications"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:319
+msgid "Licenses"
+msgstr ""
+
+#: wp-easy-events/wp-easy-events.php:325
+msgid "Calendar"
+msgstr ""
